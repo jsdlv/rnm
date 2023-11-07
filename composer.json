@@ -10,6 +10,7 @@
     "twig/twig": "^3.7",
     "guzzlehttp/guzzle": "^7.8",
     "ext-json": "*",
-    "symfony/var-dumper": "^5.4"
+    "symfony/var-dumper": "^5.4",
+    "vlucas/phpdotenv": "^5.5"
   }
 }

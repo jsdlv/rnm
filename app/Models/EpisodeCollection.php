@@ -13,7 +13,7 @@ class EpisodeCollection
         $this->episodes = [];
     }
 
-    public function addEpisode(Episode $episodes)
+    public function addEpisode(Episode $episodes): void
     {
         $this->episodes[] = $episodes;
     }
